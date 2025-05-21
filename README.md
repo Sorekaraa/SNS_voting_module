@@ -1,1 +1,1 @@
-![sample](images/Samole.png)
+![sample](images/Sample.png)
